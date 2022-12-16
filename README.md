@@ -2,7 +2,7 @@
 
 💫 Note:
 
-Create the following folders ➡️
+Create the following folders before executing the code ➡️
 
 1. ball
 2. data
