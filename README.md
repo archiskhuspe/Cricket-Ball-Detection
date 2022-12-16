@@ -1,6 +1,8 @@
 # Cricket-Ball-Detection
 
-💫 Note ➡️ Create the following folders:
+💫 Note:
+
+Create the following folders ➡️
 
 1. ball
 2. data
