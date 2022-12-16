@@ -12,4 +12,5 @@ Create the following folders before executing the code ➡️
 💫 Files
 
 1. Python Code
-2. Report
+2. Sample Video
+3. Report
